@@ -17,9 +17,11 @@ class App extends Component {
 
   componentDidMount = () =>{
       const { setCurrentUser } = this.props;
-    this.unsubscribeFromAuth = auth.onAuthStateChanged(async userAuth =>{
-      if (userAuth){
-         const userRef =await createUserProfileDocument(userAuth);
+
+      this.unsubscribeFromAuth = auth.onAuthStateChanged(async userAuth =>{
+        if (userAuth){
+          const userRef =await createUserProfileDocument(userAuth);
+          
          userRef.onSnapshot(snapShot =>{
            setCurrentUser({
                id: snapShot.id,
@@ -55,7 +57,7 @@ class App extends Component {
  
 }
 const mapStateToProps = createStructuredSelector({
-  currentUser: selectCurrentUser
+  currentUser: selectCurrentUser,
 })
 const mapDispatchToProps = dispatch =>({
     setCurrentUser: user => dispatch(setCurrentUser(user))
