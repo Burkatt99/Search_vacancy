@@ -1,4 +1,5 @@
 import React from "react";
+import { memo } from "react";
 import CartItem from "../cart-item/cart-item.components";
 import { useSelector } from "react-redux";
 import { selectCartItems } from "../../redux/cart/cart.selectors";
@@ -31,4 +32,4 @@ const CartDropdown = () => {
 )}
 
 
-export default CartDropdown;
+export default memo(CartDropdown);
