@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Burkatt99/srwn-clothing/static/css/main.e6c13ad2.css",
+    "main.js": "/Burkatt99/srwn-clothing/static/js/main.6ab28cdc.js",
+    "static/js/847.8fa7793d.chunk.js": "/Burkatt99/srwn-clothing/static/js/847.8fa7793d.chunk.js",
+    "static/js/387.cefe18a6.chunk.js": "/Burkatt99/srwn-clothing/static/js/387.cefe18a6.chunk.js",
+    "static/js/907.d2d27a40.chunk.js": "/Burkatt99/srwn-clothing/static/js/907.d2d27a40.chunk.js",
+    "static/js/116.5719d37b.chunk.js": "/Burkatt99/srwn-clothing/static/js/116.5719d37b.chunk.js",
+    "static/js/687.6e21304d.chunk.js": "/Burkatt99/srwn-clothing/static/js/687.6e21304d.chunk.js",
+    "static/js/23.90164979.chunk.js": "/Burkatt99/srwn-clothing/static/js/23.90164979.chunk.js",
+    "static/js/101.446bd337.chunk.js": "/Burkatt99/srwn-clothing/static/js/101.446bd337.chunk.js",
+    "service-worker.js": "/Burkatt99/srwn-clothing/service-worker.js",
+    "static/media/shopping-bag.svg": "/Burkatt99/srwn-clothing/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/Burkatt99/srwn-clothing/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/Burkatt99/srwn-clothing/index.html",
+    "main.e6c13ad2.css.map": "/Burkatt99/srwn-clothing/static/css/main.e6c13ad2.css.map",
+    "main.6ab28cdc.js.map": "/Burkatt99/srwn-clothing/static/js/main.6ab28cdc.js.map",
+    "847.8fa7793d.chunk.js.map": "/Burkatt99/srwn-clothing/static/js/847.8fa7793d.chunk.js.map",
+    "387.cefe18a6.chunk.js.map": "/Burkatt99/srwn-clothing/static/js/387.cefe18a6.chunk.js.map",
+    "907.d2d27a40.chunk.js.map": "/Burkatt99/srwn-clothing/static/js/907.d2d27a40.chunk.js.map",
+    "116.5719d37b.chunk.js.map": "/Burkatt99/srwn-clothing/static/js/116.5719d37b.chunk.js.map",
+    "687.6e21304d.chunk.js.map": "/Burkatt99/srwn-clothing/static/js/687.6e21304d.chunk.js.map",
+    "23.90164979.chunk.js.map": "/Burkatt99/srwn-clothing/static/js/23.90164979.chunk.js.map",
+    "101.446bd337.chunk.js.map": "/Burkatt99/srwn-clothing/static/js/101.446bd337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6ab28cdc.js"
+  ]
+}
